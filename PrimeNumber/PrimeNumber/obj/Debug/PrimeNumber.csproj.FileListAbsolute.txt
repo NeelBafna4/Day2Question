@@ -1,0 +1,7 @@
+D:\LTI\Training\Day 32 (16-12-2020) DevOps\Day2_Assignment\PrimeNumber\PrimeNumber\bin\Debug\PrimeNumber.exe.config
+D:\LTI\Training\Day 32 (16-12-2020) DevOps\Day2_Assignment\PrimeNumber\PrimeNumber\bin\Debug\PrimeNumber.exe
+D:\LTI\Training\Day 32 (16-12-2020) DevOps\Day2_Assignment\PrimeNumber\PrimeNumber\bin\Debug\PrimeNumber.pdb
+D:\LTI\Training\Day 32 (16-12-2020) DevOps\Day2_Assignment\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.csprojAssemblyReference.cache
+D:\LTI\Training\Day 32 (16-12-2020) DevOps\Day2_Assignment\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.csproj.CoreCompileInputs.cache
+D:\LTI\Training\Day 32 (16-12-2020) DevOps\Day2_Assignment\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.exe
+D:\LTI\Training\Day 32 (16-12-2020) DevOps\Day2_Assignment\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.pdb
